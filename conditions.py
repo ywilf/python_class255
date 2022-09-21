@@ -25,3 +25,6 @@ if (x[7] == 'd' and x[8] == 'e') or (x[8] == 'e' and x[9] == 'f'):
 else:
     print("Version B")
 
+
+print("Hello from my file ")
+
